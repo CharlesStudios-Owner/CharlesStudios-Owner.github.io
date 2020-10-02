@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Charles Studios
 
 You can use the [editor on GitHub](https://github.com/CharlesStudios-Owner/CharlesStudios-Owner.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
